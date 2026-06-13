@@ -71,4 +71,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-nakul09i-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=21262d)](https://github.com/nakul09i)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nakul_Chourey-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22&color=21262d)](https://www.linkedin.com/in/nakul-chourey-29i)
+[![X](https://img.shields.io/badge/X-@nakul9i-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=161b22&color=21262d)](https://x.com/nakul9i)(https://github.com/nakul09i)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nakul_Chourey-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22&color=21262d)](https://www.linkedin.com/in/nakul-chourey-29i)
 [![X](https://img.shields.io/badge/X-@nakul9i-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=161b22&color=21262d)](https://x.com/nakul9i)
