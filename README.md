@@ -1,76 +1,224 @@
 # Nakul.cse
 🚀 AI Enthusiast | 💻 Software Developer | 🐧 Linux Explorer | 🌱 Learning Every Day
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--           NAKUL CHOUREY — iOS Liquid Glass GitHub README   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- LIQUID GLASS ANIMATED HEADER -->
-[![](https://capsule-render.vercel.app/api?type=venom&height=320&color=0:0a0a0f,20:0d1117,40:161b22,60:1c2333,80:0d1117,100:0a0a0f&text=Nakul%20Chourey&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Blockchain%20Dev%20·%20Web3%20Builder%20·%20AI%20Explorer%20·%20Future%20Founder&descSize=15&descAlignY=58&descColor=8b949e&stroke=ffffff&strokeWidth=1)](https://github.com/nakul09i)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Nakul%20Chourey&fontSize=70&fontAlignY=38&animation=twinkling&desc=Software%20Developer%20|%20AI%20Enthusiast%20|%20Linux%20Explorer&descAlignY=60"/>
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hey+There!+I'm+Nakul+Chourey;Software+Developer;AI+Enthusiast;Linux+Explorer;Future+Tech+Entrepreneur;Building+Projects+Every+Day;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile"/>
 
-<!-- ANIMATED TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=20&duration=3500&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=680&lines=⌁+Blockchain+%26+Web3+Developer;⌁+B.Tech+CSE+@+SATI+Vidisha;⌁+GDGoC+Tech+Team+Member;⌁+Building+the+future+from+scratch;⌁+Solidity+·+Ethereum+·+DeFi+·+AI)](https://git.io/typing-svg)
+<br>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=nakul09i&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
-![](https://img.shields.io/badge/STATUS-Open%20to%20Internships-%230d1117?style=for-the-badge&labelColor=238636&color=0d1117&logo=checkmark)
-![Profile Views](https://komarev.com/ghpvc/?username=nakul09i&style=for-the-badge&color=0d1117&labelColor=30363d&label=VIEWS)
-![](https://img.shields.io/badge/BASED%20IN-Madhya%20Pradesh%20🇮🇳-%230d1117?style=for-the-badge&labelColor=30363d&color=0d1117)
+<img src="https://img.shields.io/github/followers/nakul09i?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/nakul09i?style=for-the-badge"/>
 
 </div>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&section=header"/>
-
-<br/>
+# 🌐 Connect With Me
 
 <div align="center">
 
-### 　　　　𝗔 𝗕 𝗢 𝗨 𝗧 　 𝗠 𝗘
+<a href="https://github.com/nakul09i">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nakul-chourey-29i">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/nakul9i">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/nakul.cse/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linktr.ee/NakulCSE">
+<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+</a>
 
 </div>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   👤  Nakul Chourey                                         │
-│   🎓  B.Tech CSE (Blockchain) · SATI Vidisha, MP           │
-│   🏛️  Semester II  ·  Batch 2024–28                        │
-│   👥  GDGoC Tech Team Member                                │
-│   📍  Madhya Pradesh, India 🇮🇳                             │
-│                                                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   ⛓️  Blockchain  ·  Web3  ·  Solidity  ·  DeFi            │
-│   🌐  Full Stack  ·  React  ·  Node.js  ·  HTML/CSS        │
-│   🤖  AI Tools   ·  Prompt Engineering  ·  Python          │
-│   📊  DSA (C++)  ·  Algorithms  ·  Problem Solving         │
-│                                                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   💭  Mindset  →  Curious Explorer · Future Tech Founder   │
-│   🎯  Mission  →  Build tech used by millions.             │
-│                   Trillion-dollar brand. Starting now.      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Nakul Chourey
+
+Role: Software Developer
+
+Education: B.Tech Student
+
+Location: India
+
+Interests:
+  - Artificial Intelligence
+  - Software Development
+  - Linux
+  - Open Source
+  - Entrepreneurship
+
+Currently Learning:
+  - Data Structures & Algorithms
+  - Python
+  - Linux
+  - Machine Learning
+
+Mission:
+  Build impactful technology products used by millions.
+
+Motto:
+  Code. Learn. Build. Repeat.
 ```
 
-<br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2"/>
-<br/>
+---
+
+# 💻 Tech Stack
 
 <div align="center">
 
-### 　　　　𝗖 𝗢 𝗡 𝗡 𝗘 𝗖 𝗧
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,linux,git,github,vscode,html,css,javascript"/>
 
-<br/>
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-nakul09i-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=21262d)](https://github.com/nakul09i)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nakul_Chourey-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22&color=21262d)](https://www.linkedin.com/in/nakul-chourey-29i)
-[![X](https://img.shields.io/badge/X-@nakul9i-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=161b22&color=21262d)](https://x.com/nakul9i)(https://github.com/nakul09i)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nakul_Chourey-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22&color=21262d)](https://www.linkedin.com/in/nakul-chourey-29i)
-[![X](https://img.shields.io/badge/X-@nakul9i-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=161b22&color=21262d)](https://x.com/nakul9i)
+---
+
+# ⚡ Developer Dashboard
+
+```text
+╭─────────────────────────────────────────────╮
+│ 👨‍💻 Name       : Nakul Chourey              │
+│ 🚀 Role       : Software Developer          │
+│ 🤖 Interest   : Artificial Intelligence     │
+│ 🐧 Favorite   : Linux                       │
+│ 💡 Passion    : Technology & Innovation     │
+│ 🎯 Goal       : Build Great Products        │
+╰─────────────────────────────────────────────╯
+```
+
+---
+
+# 🎯 Current Missions
+
+- 🚀 Build Real World Projects
+- 🤖 Learn AI & Machine Learning
+- 🐧 Master Linux
+- 💻 Become Strong in DSA
+- 🌍 Contribute to Open Source
+- 🏆 Participate in Hackathons
+- 📚 Learn Something New Daily
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakul09i&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakul09i&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nakul09i&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Detailed Profile Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakul09i&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 Achievement Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nakul09i&theme=radical&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🛠 Featured Repositories
+
+### 🚀 Portfolio Website
+Personal developer portfolio showcasing projects and achievements.
+
+### 🤖 AI Projects
+Machine Learning and Artificial Intelligence projects.
+
+### 🐧 Linux Notes
+Linux commands, shell scripting, and learning resources.
+
+### 📚 DSA Roadmap
+Data Structures & Algorithms solutions and notes.
+
+### 💻 Python Projects
+Useful Python applications and automation tools.
+
+### 🎓 College Labs
+Assignments, practicals, and academic work.
+
+---
+
+# ☕ Developer Facts
+
+- ⚡ I turn coffee into code
+- 🚀 Dreaming Big, Building Bigger
+- 🤖 Curious About AI
+- 🐧 Linux Enthusiast
+- 🌎 Lifelong Learner
+- 💡 Passionate About Technology
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build 25+ Projects
+- ✅ Learn Machine Learning
+- ✅ Master Linux
+- ✅ Improve Open Source Contributions
+- ✅ Become Strong in DSA
+- ✅ Create Startup-Level Products
+- ✅ Secure Amazing Internship Opportunities
+
+---
+
+# 📈 Activity Graph
+
+[![Nakul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nakul09i&theme=tokyo-night)](https://github.com/nakul09i)
+
+---
+
+# 💭 Favorite Quote
+
+> "The best way to predict the future is to build it."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+</div>
