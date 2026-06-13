@@ -3,22 +3,56 @@
 <div align="center">
 
 # 👋 Hey, I'm Nakul Chourey
+<div align="center">
 
-### 🚀 Software Developer • AI Enthusiast • Linux Explorer • Future Entrepreneur
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,100:92FE9D&text=Nakul%20Chourey&fontSize=60&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20|%20AI%20Enthusiast%20|%20Linux%20Explorer&descAlignY=65"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+Projects+and+Learning+Everyday;Computer+Science+%7C+AI+%7C+Linux;Future+Tech+Innovator" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Nakul+Chourey;Software+Developer;AI+Enthusiast;Linux+Explorer;Future+Tech+Entrepreneur;Building+Projects+Every+Day;Welcome+to+My+GitHub+Profile"/>
 
 </div>
 
 ---
 
-## 🌟 About Me
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://github.com/nakul09i">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nakul-chourey-29i">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/nakul9i">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/nakul.cse/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linktr.ee/NakulCSE">
+<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 About Me
 
 ```yaml
 Name: Nakul Chourey
-Location: India 🇮🇳
+
+Role: Software Developer
+
 Education: B.Tech Student
-Passion:
+
+Location: India
+
+Interests:
   - Artificial Intelligence
   - Software Development
   - Linux
@@ -32,140 +66,113 @@ Currently Learning:
   - Machine Learning
 
 Goal:
-  Build impactful technology products.
+  Build impactful technology products used by millions.
 ```
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/nakul-chourey-29i">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/nakul9i">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://linktr.ee/NakulCSE">
-<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
-</a>
-
-<a href="https://github.com/nakul09i">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,linux,git,github,vscode" />
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
-
-</p>
+</div>
 
 ---
 
-# 🚀 Current Focus
+# 🎯 Current Focus
 
-- 📚 Mastering Data Structures & Algorithms
-- 🐧 Learning Linux Deeply
+- 🚀 Building Real Projects
+- 📚 Learning DSA
 - 🤖 Exploring AI & Machine Learning
-- 💻 Building Real Projects
+- 🐧 Mastering Linux
 - 🌍 Contributing to Open Source
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nakul09i&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakul09i&layout=compact&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nakul09i&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=nakul09i&theme=tokyonight&row=2&column=4"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nakul09i&theme=tokyo-night)](https://github.com/nakul09i)
+[![Nakul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nakul09i&theme=tokyo-night)](https://github.com/nakul09i)
 
 ---
 
-# 🛠 Featured Repositories
+# 🚀 Featured Repositories
 
 ### 📌 DSA Roadmap
-Collection of coding questions and solutions.
+Data Structures & Algorithms solutions and notes.
 
 ### 📌 Linux Notes
-Commands, scripts and Linux learning resources.
+Linux commands, scripts, and learning resources.
 
 ### 📌 AI Projects
-Machine Learning and AI experiments.
+Machine Learning and Artificial Intelligence projects.
 
 ### 📌 Python Projects
-Useful Python applications.
+Automation tools and useful applications.
 
 ### 📌 Portfolio Website
-Personal developer portfolio.
+My personal developer portfolio.
 
 ### 📌 College Labs
-Academic programs and assignments.
+Academic assignments and practicals.
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Become highly skilled in DSA
-- ✅ Learn Linux professionally
-- ✅ Build 20+ Projects
-- ✅ Master Git & GitHub
-- ✅ Learn AI & Machine Learning
+- ✅ Build 25+ Projects
+- ✅ Learn Machine Learning
+- ✅ Master Linux
+- ✅ Become Strong in DSA
 - ✅ Contribute to Open Source
+- ✅ Participate in Hackathons
+- ✅ Secure Great Internship Opportunities
+
+---
+
+# 💡 Quote
+
+> "Code. Learn. Build. Repeat."
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C9FF,100:92FE9D"/>
 
-"Code. Learn. Build. Repeat."
+⭐ If you like my work, consider following me!
 
 </div>
